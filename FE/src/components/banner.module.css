@@ -1,0 +1,76 @@
+.taskboard{
+
+padding-top: 64px;
+background-color: black;
+height: 100vh;
+width: 100%;
+background-image: url("https://img.freepik.com/free-vector/task-management-app_52683-44675.jpg?size=626&ext=jpg&ga=GA1.1.553209589.1713916800&semt=ais");
+background-size: cover;
+}
+
+
+.homepagefields{
+
+    padding-top: 64px;
+   display: flex;
+   align-items: center;
+   justify-content: space-evenly;
+   background-color: rgb(196, 226, 196);
+
+   border-radius: 5px;
+   width: 100%;
+  padding-bottom: 10px;
+    }
+
+
+.homepagecards{
+
+display: flex;
+align-items: center;
+justify-content: center;
+padding-top: 10px;
+border-radius: 5px;
+background-color: rgb(177, 204, 177);
+margin: auto;
+
+    }
+.taskcardavedelbtns{
+
+display: flex;
+align-items: center;
+justify-content: center;
+margin-top: 20px;
+
+
+
+}
+.taskcardmain{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+
+
+.sortingsection{
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+
+
+
+
+
+
+}
+
+body{
+
+    background-color: rgb(177, 204, 177);
+
+
+}
